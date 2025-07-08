@@ -1,7 +1,6 @@
-#PDA based Palindrome Checker
-.............................
+# PDA based Palindrome Checker
 
-#Usage:
+## Usage:
 For simplicity and to avoid dependency issues, i have created an executable file, simply run the *Palindrome Checker.exe*. 
 
 The Source code is also runable via any IDE / Jupyter Notebook.To run the code on:
